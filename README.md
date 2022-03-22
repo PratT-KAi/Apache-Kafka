@@ -1,3 +1,3 @@
-# apache-kafka-course
+# Apache-Kafka-Course
 
 > A Beginner friendly course
